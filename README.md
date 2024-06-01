@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abibatoki
 - 👀 I’m interested in data/business analytics
 - 🌱 I’m currently a graduate student of applied business analytics at Carleton University
-- - 💞️ I have created this profile to document my learnings. I am open to remote entry-level roles and internships in data analytics
+- - 💞️ I have created this profile to document my learnings. I am open to freelancing, remote, and internship roles in data analytics
 - 📫 You can reach me at abibatoki@gmail.com
 
 <!---

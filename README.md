@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @abibatoki
-- 👀 I’m interested in data/business analytics
-- 🌱 I’m currently a graduate student of applied business analytics at Carleton University
-- - 💞️ I have created this profile to document my learnings. I am open to freelancing, remote, and internship roles in data analytics
+- 🎓 I recently completed my Master’s in Applied Business Analytics from Carleton University
+- 🔍 I’m passionate about uncovering insights through data and turning them into business value
+- 💼 I’m open to freelance and full-time roles in data science and analytics — remote or onsite
+- 📊 This profile is where I share projects that showcase my skills and learning journey
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abibatoki/)
 - 📫 You can reach me at abibatoki@gmail.com
-
-<!---
-abibatoki/abibatoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abibatoki
 - 🎓 I recently completed my Master’s in Applied Business Analytics from Carleton University
 - 🔍 I’m passionate about uncovering insights through data and turning them into business value
-- 💼 I’m open to freelance and full-time roles in business analysis — remote or onsite
+- 💼 I’m open to freelance and full-time roles in data/business analysis — remote or onsite
 - 📊 This profile is where I share projects that showcase my skills and learning journey
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abibatoki/)
 - 📫 You can reach me at abibatoki@gmail.com
